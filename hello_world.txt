@@ -1,0 +1,6 @@
+Learning how to make commits and staging files for cloning them to the remote 
+repository on GitHub.
+This is followed by a series of Git commands also known as Git workflow.
+I am so excited to gain this new skill since it sharpens my understanding
+on how useful Git is and makes me get handy with it 
+as I progress to the top of my career path!
