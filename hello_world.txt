@@ -4,3 +4,5 @@ This is followed by a series of Git commands also known as Git workflow.
 I am so excited to gain this new skill since it sharpens my understanding
 on how useful Git is and makes me get handy with it 
 as I progress to the top of my career path!
+
+Day 02 deeper into the HTML and CSS basics and I'm getting even more excited!!!!!
